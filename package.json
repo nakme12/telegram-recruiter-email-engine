@@ -1,0 +1,20 @@
+{
+  "name": "telegram-recruiter-email-engine",
+  "version": "1.0.0",
+  "description": "High-Precision Telegram Recruiter Email & Job Lead Harvester for AI Job Search",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.cjs",
+    "test": "node test/run_tests.cjs"
+  },
+  "keywords": [
+    "telegram",
+    "job-scraper",
+    "recruiter-emails",
+    "digest-parser",
+    "mcp-engine"
+  ],
+  "author": "Pratik Patidar",
+  "license": "MIT"
+}
