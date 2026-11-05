@@ -7,7 +7,7 @@ const path = require('path');
 
 module.exports = {
   ENGINE_ROOT: __dirname,
-  DEFAULT_LOOKBACK_DAYS: 7,
+  DEFAULT_LOOKBACK_DAYS: 3,
   OUTPUT_DIR: path.join(__dirname, 'output'),
   OUTPUT_JSON: path.join(__dirname, 'output', 'telegram_recruiter_leads.json'),
   
