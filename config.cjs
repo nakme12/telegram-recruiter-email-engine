@@ -25,7 +25,9 @@ module.exports = {
     'hire_developers',
     'remote_frontend_jobs',
     'developerjobs',
-    'fullstackjobs'
+    'fullstackjobs',
+    'fresheroffcampus',
+    'devjobs'
   ],
 
   // Local Indore tech whitelist
