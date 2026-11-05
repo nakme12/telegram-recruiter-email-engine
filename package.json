@@ -5,7 +5,7 @@
   "main": "index.cjs",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.cjs",
+    "start": "node init && node index.cjs",
     "test": "node test/run_tests.cjs"
   },
   "keywords": [
